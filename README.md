@@ -6,7 +6,7 @@
 
 <h3 align="center"> 
   
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rviannaoliveira.mobile-developer-security-roadmap)
+![Visitor Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rviannaoliveira/mobile-developer-security-roadmap&title=Visitor)
 <a href="https://www.linkedin.com/in/rviannaoliveira"><img src="https://user-images.githubusercontent.com/5540492/212076261-85e22389-eaae-4ac0-9c9d-06196f54ac70.png" height="20px"/></a>
 <a href="https://medium.com/@rodrigo.vianna.oliveira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="20px"/></a>
 <a href="https://www.youtube.com/c/CodandoTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px"/></a>
@@ -17,8 +17,8 @@
 
 Welcome to Mobile Developer Security Roadmap 2023
 
-The main purpose of this roadmap is to help anyone who to get knowledge about security.
-This contains all topics to help you find what you are looking for quickly. I hope I can help you=
+The main purpose of this roadmap is to help anyone who wants to get knowledge about security.
+This contains all topics to help you find what you are looking for quickly. I hope I can help you.
 
 
 ### :book: Authors
